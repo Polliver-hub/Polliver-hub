@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?Polliver-hub=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Polliver-hub&theme=dark)](https://github.com/Polliver-hub/leetcode-stats)
 
 <!--
 **Polliver-hub/Polliver-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
