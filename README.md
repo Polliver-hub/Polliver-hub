@@ -1,4 +1,10 @@
 ### Hi there 👋
+
+##Languages:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Polliver-hub&theme=dark)](https://github.com/Polliver-hub/leetcode-stats)
 
 <!--
