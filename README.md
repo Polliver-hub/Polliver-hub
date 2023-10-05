@@ -20,7 +20,7 @@
 
 
 ## LeetCode:<br>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Polliver-hub&theme=dark)](https://github.com/Polliver-hub/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Polliver-hub&theme=dark)](https://leetcode.com/Polliver-hub/)
 
 <!--
 **Polliver-hub/Polliver-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
